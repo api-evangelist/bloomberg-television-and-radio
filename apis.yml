@@ -6,7 +6,7 @@ description: Bloomberg Television is a 24-hour global business and financial new
   economic analysis, and market commentary. Content is distributed via cable, satellite,
   streaming, and digital platforms globally.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/bloomberg-television-and-radio/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-04-21'
