@@ -52,6 +52,8 @@ apis:
   - type: Documentation
     url: https://www.bloomberg.com/live/
 common:
+- type: DomainSecurity
+  url: security/bloomberg-television-and-radio-domain-security.yml
 - type: Portal
   url: https://www.bloomberg.com/professional/
 - type: Documentation
