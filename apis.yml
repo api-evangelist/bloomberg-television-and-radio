@@ -1,9 +1,9 @@
 aid: bloomberg-television-and-radio
 name: Bloomberg Television and Radio
-description: Bloomberg Television is a 24-hour global business and financial news television network, while Bloomberg
-  Radio provides all-news financial radio coverage. Bloomberg TV and Radio deliver breaking market news, interviews
-  with business leaders, economic analysis, and market commentary. Content is distributed via cable, satellite,
-  streaming, and digital platforms globally.
+description: Bloomberg Television is a 24-hour global business and financial news television network,
+  while Bloomberg Radio provides all-news financial radio coverage. Bloomberg TV and Radio deliver breaking
+  market news, interviews with business leaders, economic analysis, and market commentary. Content is
+  distributed via cable, satellite, streaming, and digital platforms globally.
 type: Index
 deliveryModel:
   model: saas
@@ -31,7 +31,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bloomberg-television-and-radio.png
 url: https://raw.githubusercontent.com/api-evangelist/bloomberg-television-and-radio/refs/heads/main/apis.yml
 created: '2024-01-01'
-modified: '2026-08-27'
+modified: '2026-09-16'
 specificationVersion: '0.23'
 tags:
 - Television
@@ -44,8 +44,8 @@ tags:
 apis:
 - aid: bloomberg-television-and-radio:bloomberg-media-content-api
   name: Bloomberg Media Content API
-  description: Access Bloomberg TV and Radio content including video clips, interview segments, market coverage
-    segments, and audio content for licensed distribution to enterprise clients and media partners.
+  description: Access Bloomberg TV and Radio content including video clips, interview segments, market
+    coverage segments, and audio content for licensed distribution to enterprise clients and media partners.
   humanURL: https://www.bloomberg.com/media-distribution/
   baseURL: https://api.bloomberg.com/media
   tags:
@@ -59,8 +59,8 @@ apis:
     url: https://www.bloomberg.com/media-distribution/
 - aid: bloomberg-television-and-radio:bloomberg-live-stream
   name: Bloomberg Live Streaming API
-  description: Embed or access Bloomberg TV live stream for licensed digital distribution on websites, apps, and
-    digital platforms. Includes live market coverage, news programming, and special event coverage.
+  description: Embed or access Bloomberg TV live stream for licensed digital distribution on websites,
+    apps, and digital platforms. Includes live market coverage, news programming, and special event coverage.
   humanURL: https://www.bloomberg.com/live/
   baseURL: https://stream.bloomberg.com
   tags:
@@ -72,6 +72,8 @@ apis:
   - type: Documentation
     url: https://www.bloomberg.com/live/
 common:
+- type: Website
+  url: https://bloomberg.com
 - type: ParentCompany
   url: https://apis.io/providers/bloomberg/
   name: Bloomberg
