@@ -64,6 +64,11 @@ apis:
   humanURL: https://www.bloomberg.com/live/
   baseURL: https://stream.bloomberg.com
   tags:
+  - Live Streaming
+  - Video
+  - Streaming
+  - Digital Distribution
+  tags_raw:
   - Live Stream
   - Video
   - Streaming
